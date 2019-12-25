@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  slideTransition
+//  Slide_Transition
 //
-//  Created by Abdullah Ridwan on 12/25/19.
+//  Created by Abdullah Ridwan on 12/23/19.
 //  Copyright © 2019 Abdullah Ridwan. All rights reserved.
 //
 
